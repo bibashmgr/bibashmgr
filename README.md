@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Full Stack Developer 🧑‍💻
 
 Hi, I'm Bibash Thapa Magar, a full-stack developer from Nepal.
 
